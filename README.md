@@ -8,4 +8,4 @@
 7. Comes with paint and notepad right out of the box (Linux cannot run paint or notepad)
 8. WIN + CTRL + ENTER (very nice feature!)
 9. Comes with Windows Terminal (fastest piece of software ever written!)
-10. Has two different control panels (twice more than Linux!)
+10. Has two different control panels (two more than Linux!)
